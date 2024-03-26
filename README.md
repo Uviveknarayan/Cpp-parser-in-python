@@ -25,6 +25,6 @@ The project includes both correct and incorrect syntax test cases to validate th
 - Priyanshu Behera
 
 ## Repository
-[Assignment-1-Compiler-Design](https://github.com/mohithkanuru/Compiler_Design_Project-1)
+[Compiler-Design-Project](https://github.com/Uviveknarayan/Cpp-parser-in-python)
 
 This README provides instructions on running the code and highlights the core functionalities of the project. For detailed implementation and usage, please refer to the provided notebooks in the repository.
