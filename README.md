@@ -24,7 +24,4 @@ The project includes both correct and incorrect syntax test cases to validate th
 - Kanuru Mohith Kumar Reddy
 - Priyanshu Behera
 
-## Repository
-[Compiler-Design-Project](https://github.com/Uviveknarayan/Cpp-parser-in-python)
-
 This README provides instructions on running the code and highlights the core functionalities of the project. For detailed implementation and usage, please refer to the provided notebooks in the repository.
