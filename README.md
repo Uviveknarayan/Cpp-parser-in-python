@@ -1,7 +1,7 @@
 # C++ Syntax Checker: Lexer and Parser
 
 ## Overview
-This project presents a lexer and parser implemented in Python for checking syntax errors in C++ code. It does not utilize LLVM but focuses solely on parsing the code and identifying syntax errors.
+This project presents a lexer and parser implemented in Python for checking syntax errors in C++ code. It focuses solely on parsing the code and identifying syntax errors.
 
 ## Components
 1. **Lexer**: Parses the input C++ file and generates tokens, stored in a list cache named `tokens`.
